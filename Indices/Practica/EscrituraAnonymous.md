@@ -12,17 +12,21 @@
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.2.1.png)
 
-### 4. Comprobamos que podemos subir los archivos
+### 4. Reiniciamos el servicio
+
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/reinicio.png)
+
+### 5. Comprobamos que podemos subir los archivos
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.6.png)
 
 
-### 5. Comprobamos subir un archivo a una carpeta que no sea /sugerencias
+### 6. Comprobamos subir un archivo a una carpeta que no sea /sugerencias
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.7.png)
 
 
-### 6. Comprobamos que podemos borrar en /sugerencia
+### 7. Comprobamos que podemos borrar en /sugerencia
 Podemos borrar gracias a  que hemos descomentado la linea de **anon_other_write_enable=YES**
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.8.png)
