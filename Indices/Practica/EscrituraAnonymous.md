@@ -20,7 +20,7 @@
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.7.png)
 
 
-### 5. Comprobamos que podemos borrar
+### 5. Comprobamos que podemos borrar en /sugerencia
 Podemos borrar gracias a  que hemos descomentado la linea de **anon_other_write_enable=YES**
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.8.png)
