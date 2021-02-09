@@ -1,31 +1,27 @@
-# Autentificación,Autorización y Control de Acceso 📄
-## Procedemos a configurar la autentificación mediante las IP
-Si accedemos desde la red externa pedirá autorización,pero desde la red interna no
+# Acceso al servidor FTP: anónimo tiene permiso de escritura en el directorio sugerencias, que es un subdirectorio de su directorio raíz. 📄
+## Procedemos a configurar el servidor para que el usuario Anonymous pueda escribir solo en /sugerencias
 
 ### Pasos
 
-### 1. Mantenemos todas las configuraciones anteriores
+### 1. Creamos algunos archivos para luego subirlos
 
-### 2. Configuramos el sitio virtual de nuevo
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/8.1.png)
+### 2. Configuramos el /etc/vsftpd.conf de la siguiente manera
 
-### 3. Comprobamos que la configuración es correcta
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.2.1.png)
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.6.png)
+### 3. Comprobamos que podemos subir los archivos
 
-### 4. Reiniciamos el servicio
+![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.6.png)
 
-```systemctl restart nginx```
 
-### 5. Comprobaciones
+### 4. Comprobamos subir un archivo a una carpeta que no sea /sugerencias
 
-   * Cliente red externa
-   
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/8.2.png)
-   
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/8.3.png)
-   
-   * Cliente red interna
+![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.7png)
 
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.5.png)
+
+### 5. Comprobamos que podemos borrar
+Podemos borrar gracias a  que hemos descomentado la linea de **anon_other_write_enable=YES**
+
+![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.8.png)
+
