@@ -1,7 +1,7 @@
 # Casos Practicos ⚙️
 Aquí se recoge las practicas que se me han ido ofreciendo
 
-### 1. -[Conceptos](https://github.com/jesusromero92/NGINX/blob/main/Indices/Practica/conceptos.md)
+### 1. -[Conceptos](https://github.com/jesusromero92/vsftpd/blob/main/Indices/Practica/conceptos.md)
 
 ### 2. -[Modificar Página Web por defecto](https://github.com/jesusromero92/NGINX/blob/main/Indices/Practica/Modificar.md)
 
