@@ -17,7 +17,7 @@
 
 ### 4. Comprobamos subir un archivo a una carpeta que no sea /sugerencias
 
-![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.7png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.7.png)
 
 
 ### 5. Comprobamos que podemos borrar
