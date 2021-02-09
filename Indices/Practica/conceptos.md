@@ -32,3 +32,28 @@
    
    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.2.1.png)
    
+   
+### 5. Directivas
+
+   * **local_enable**
+            Si está a YES se permite que los usuarios locales de la máquina servidor puedan iniciar
+            conexiones FTP desde clientes. Por defecto, está a YES.
+            
+   * **cmds_allowed**
+            Permite establecer una lista con los comandos ftp que va a aceptar el servidor.
+            
+   * **ftpd_banner**
+            Permite establecer un mensaje que se dará a los clientes cuando inicien una conexión
+            con el servidor.
+            
+   * **anonymous_enable**
+            Por defecto está a YES estableciendo que los usuarios anónimos (anonymous y ftp)
+            pueden iniciar sesiones o conexiones FTP.
+            
+   * **local_root**
+            Indica la carpeta raíz del sitio FTP. Es la carpeta en la que los usuarios tienen las
+            carpetas a las que acceden cuando inician conexiones FTP. Por defecto es /home.
+
+
+
+   
