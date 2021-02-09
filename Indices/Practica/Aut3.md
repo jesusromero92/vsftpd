@@ -12,16 +12,16 @@
 
 ### 3. Comprobamos que podemos subir los archivos
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.6.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.6.png)
 
 
 ### 4. Comprobamos subir un archivo a una carpeta que no sea /sugerencias
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.7png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.7png)
 
 
 ### 5. Comprobamos que podemos borrar
 Podemos borrar gracias a  que hemos descomentado la linea de **anon_other_write_enable=YES**
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/7.8.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.8.png)
 
