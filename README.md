@@ -11,8 +11,8 @@ El proyecto consiste en investigar sobre VSFTPD y crear varios sitios virtuales 
 5. -[Casos Prácticos](https://github.com/jesusromero92/NGINX/blob/main/Indices/practica.md)
 
 ## **Referencias** 📖
-  * [Apache vs NGINX](https://www.redeszone.net/2019/01/26/apache-vs-nginx-servidor-web-2019/)
-  * [Autentificación](https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/)
+  * [Enjaular](http://sergio107sr.blogspot.com/2015/12/servidor-ftp-enjaular-usuarios.html)
+  * [Configurar Anonymous](https://www.ionos.es/digitalguide/servidores/configuracion/servidor-ftp-en-ubuntu-instalacion-y-configuracion/)
   * [Crear Certificado](https://www.xn--linuxenespaol-skb.com/tutoriales/crear-certificado-ssl-autofirmado-openssl/)
   * [Habilitar HTTPS](https://techexpert.tips/es/nginx-es/habilitar-https-en-nginx/)
   * [Ficheros de Configuración](https://www.nexolinux.com/servidor-web-nginx-instalacion-y-ficheros-de-configuracion/)
