@@ -1,37 +1,25 @@
-# Aquí se recoge los conceptos básicos de NGINX
+# Aquí se recoge los conceptos básicos de VSFTPD
 
-### 1.  Ver version de NGINX instalado
+### 1.  Ver version de VSFTPD instalado
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/1.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.1.1.png)
+
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.1.2.png)
       
       
-### 2.  Servicio asociado --> nginx
+### 2.  Servicio asociado --> vsftpd
 
-**Reiniciar servicio** --> ```systemctl restart nginx```
+**Reiniciar servicio** --> ```systemctl restart vsftpd```
 
-**Recargar servicio** --> ```systemctl reload nginx```
-     
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/2.png)
+**Recargar servicio** --> ```systemctl reload vsftpd```
+    
     
     
 ### 3.  Ficheros de configuración
             
-   * Fichero de configuracion de nginx **El más importante**
-       
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.1.png)
+   * Fichero de configuracion de VSFTPD
    
-   * ¿Dónde se guardan los sitios virtuales?
+     Se encuentra en /etc y se llama vsftpd.conf **/etc/vsftpd.conf**
        
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.2.png)
+  ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.4.png)
    
-   * ¿Dónde se encuentran los LOGS?
-       
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.3.png)
-   
-   * ¿Dónde se debe de crear las carpetas para los sitios virtuales?
-       
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.4.png)
-   
-   * Modificar la página web por defecto
-       
-   ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.5.png)
