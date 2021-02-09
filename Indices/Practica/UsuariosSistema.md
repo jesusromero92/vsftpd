@@ -11,18 +11,18 @@ Voy a crear en el servidor un usuario llamado jesus
 
 ### 2. Le damos los permisos al directorio
     
-    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.3.png)
+  ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.3.png)
     
 
 ### 3. Configuramos el archivo de configuración de la siguiente forma
 
-    * Deshabilitamos el ipv6 y activamos el listen
+   * Deshabilitamos el ipv6 y activamos el listen
     
    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.4.png)
    
    * Descomentamos las siguientes lineas
     
-    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.5.png)
+   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.5.png)
     
    * Quitamos los permisos de escritura
    
