@@ -9,7 +9,7 @@ Voy a crear en el servidor un usuario llamado jesus
 
    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.2.png)
 
-### 2. Le damos los permisos al directorio
+### 2. Cambiamos el propietario del directorio
     
   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.3.png)
     
