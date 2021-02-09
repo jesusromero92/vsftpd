@@ -53,6 +53,8 @@
    * **local_root**
             Indica la carpeta raíz del sitio FTP. Es la carpeta en la que los usuarios tienen las
             carpetas a las que acceden cuando inician conexiones FTP. Por defecto es /home.
+            
+       [Saber Más](https://ikastaroak.birt.eus/edu/argitalpen/backupa/20200331/1920k/es/ASIR/SRI/SRI03/es_ASIR_SRI03_Contenidos/SRI03_CONT_R22_DIRECTIVAS_vsftpd.pdf)
 
 
 
