@@ -21,7 +21,6 @@
    
    
 ### 3. Para comprobarlo,intentaremos bajar cualquier otro archivo
-   Creamos una carpeta donde se guardará el archivo con los usuarios autentificados y luego los creamos
    
   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/6.3.1.png)
    
