@@ -22,4 +22,13 @@
      Se encuentra en /etc y se llama vsftpd.conf **/etc/vsftpd.conf**
        
   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.4.png)
+  
+  
+### 4. Usuarios Creados en la Configuración
+
+   * Se crea un usuario y un grupo
+   
+   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.2.1.png)
+   
+   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.2.1.png)
    
