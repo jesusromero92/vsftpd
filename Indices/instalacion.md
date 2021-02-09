@@ -5,9 +5,9 @@ Vamos a proceder con la instalacion de NGINX en **Debian 10 buster**
    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/4.1.png)
 
 
-### 2. - Instalamos el paquete de NGINX
+### 2. - Instalamos el paquete de VSFTPD
 
-   ``` apt install nginx ```
+   ``` apt install vsftpd ```
    
    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/4.2.png)
     
