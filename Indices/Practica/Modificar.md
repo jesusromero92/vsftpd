@@ -7,7 +7,7 @@
 * ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.5.png)
 
 
-### 2. Configuramos el archivo de configuración de la siguiente forma
+### 2. Configuramos el archivo /etc/vsftpd.conf de la siguiente forma
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/8.2.1.png)
 
