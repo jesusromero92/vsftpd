@@ -30,7 +30,7 @@
    
    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.2.1.png)
    
-   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.2.1.png)
+   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.2.2.png)
    
    
 ### 5. Directivas
