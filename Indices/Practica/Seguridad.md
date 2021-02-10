@@ -11,7 +11,7 @@
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.2.png)
 
-![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.3.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.2.2.png)
 
 
 
