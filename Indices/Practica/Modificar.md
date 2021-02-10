@@ -37,7 +37,6 @@
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/8.8.png)
 
-![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/8.9.png)
 
 ### 8. Ahora creamos la ruta donde podrá acceder dicho usuario
 
