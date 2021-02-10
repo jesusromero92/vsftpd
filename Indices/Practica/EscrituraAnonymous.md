@@ -17,7 +17,7 @@
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.3.png)
 
-### 4. Comprobamos que no podemos descargar nada en /sugerencias pero si subir
+### 4. Comprobamos que podemos subir archivos pero no bajar nada
 
 * Subir
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.4.png)
