@@ -3,7 +3,7 @@
 
 ### Pasos
 
-### 1. Creamos algunos archivos para luego subirlos
+### 1. Creamos algunos archivos en /sugerencias para luego subirlos
 
 ### 2. Le damos los permisos 777 a la carpeta sugerencias
  ``` chmod -R 777 /srv/ftp/sugerencias```
