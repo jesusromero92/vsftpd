@@ -5,11 +5,11 @@
 
 ### 1. Hacemos los siguientes comandos:
 
-Cambiamos el dueño de /srv/ftp a ftp(Anonymous)
-Creamos una carpeta dentro que se llame sugerencias
-Le cambiamos el dueño para que sea ftp(Anonymous)
-Y eliminamos el permiso de escritura en /srv/ftp
-Con esto hemos conseguido que Anonymous solo pueda escribir en /sugerencias,es decir,solo pueda bajar archivos
+* Cambiamos el dueño de /srv/ftp a ftp(Anonymous)
+* Creamos una carpeta dentro que se llame sugerencias
+* Le cambiamos el dueño para que sea ftp(Anonymous)
+* Y eliminamos el permiso de escritura en /srv/ftp
+* Con esto hemos conseguido que Anonymous solo pueda escribir en /sugerencias,es decir,solo pueda bajar archivos
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.2.png)
 
