@@ -23,6 +23,7 @@
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.4.png)
 
 * Bajar
+
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.5.png)
 
 ### 5. Y comprobamos que en / no se puede subir nada
