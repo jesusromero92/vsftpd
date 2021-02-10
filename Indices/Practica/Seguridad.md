@@ -31,4 +31,5 @@ Buscamos estas lineas que están al final del archivo y lo modificados para que 
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.5.png)
 
+**Abajo se puede observar que aparece el candado de que ha funcionado el certificado y la web es segura**
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.6.png)
