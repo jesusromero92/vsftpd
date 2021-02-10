@@ -3,27 +3,33 @@
 
 ### Pasos
 
-### 1. Creamos algunos archivos en /sugerencias para luego subirlos
+### 1. Hacemos los siguientes comandos:
 
-### 2. Le damos los permisos 777 a la carpeta sugerencias
- ``` chmod -R 777 /srv/ftp/sugerencias```
+Cambiamos el dueño de /srv/ftp a ftp(Anonymous)
+Creamos una carpeta dentro que se llame sugerencias
+Le cambiamos el dueño para que sea ftp(Anonymous)
+Y eliminamos el permiso de escritura en /srv/ftp
+Con esto hemos conseguido que Anonymous solo pueda escribir en /sugerencias,es decir,solo pueda bajar archivos
 
-### 3. Configuramos el /etc/vsftpd.conf de la siguiente manera
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.2.png)
 
-![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.2.1.png)
+### 2. Configuramos el /etc/vsftpd.conf de la siguiente manera
 
-### 4. Reiniciamos el servicio
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.3.png)
 
-![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/reinicio.png)
+### 4. Comprobamos que no podemos descargar nada en /sugerencias pero si subir
 
-### 5. Comprobamos que podemos subir los archivos
+* Subir
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.4.png)
+
+* Bajar
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.5.png)
+
+### 5. Y comprobamos que en / no se puede subir nada
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.6.png)
 
 
-### 6. Comprobamos subir un archivo a una carpeta que no sea /sugerencias
-
-![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.7.png)
 
 
 
