@@ -20,7 +20,7 @@
    **Como vemos,nos ha dejado descargarlo**
    
    
-### 3. Para comprobarlo,intentaremos bajar cualquier otro archivo
+### 3. Para comprobarlo,intentaremos subir un archivo
    
   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/6.3.1.png)
    
