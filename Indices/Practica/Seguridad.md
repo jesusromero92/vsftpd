@@ -1,42 +1,34 @@
 # Seguridad
-## Procedemos a instalar un certificado para que nuestro sitio web sea **seguro**
+## Procedemos a instalar un certificado para que nuestro FTP sea **seguro**
 
 ### Pasos
 
-### 1. Creamos una carpeta para guardar los certificados,e instalamos el paquete para crear los certificados
-Nos pedirá una frase,introducimos la que nosotros queramos,pero debemos recordarla
+### 1. Instalamos el paquete para generar el certificado
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.1.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.1.png)
 
-### 2. Generamos la clave privada con la más tarde cifraremos el certificado
+### 2. Generamos el certificado rellenando los siguientes datos
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.2.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.2.png)
 
-### 3. Generamos el certificado *aun sin firmar*
-   Rellamos los datos y es **importante introducir correctamente el *FQDN***
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.3.png)
+
+
+
+### 3. Configuramos /etc/vsftpd de la siguiente manera
+Buscamos estas lineas que están al final del archivo y lo modificados para que quede asi
    
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.4.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.3.png)
 
-### 4. Firmamos el certificado con la clave privada que generamos antes
-Debemos introducir la frase que pusimos en la clave privada
+### 4. Reiniciamos
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.5.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/reinicio.png)
 
-### 5. Debemos tener los siguientes archivos:
+### 5. Y nos conectamos desde el cliente de esta forma
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.9.png)
 
-### 5. Configuramos el sitio virtual de la siguiente manera para activar la navegación segura
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.4.png)
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.8.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.5.png)
 
-### 6. Comprobamos que la configuración es correcta
-
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/5.6.png)
-
-### 7. Comprobaciones
-
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.6.png)
-
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/9.7.png)
-
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/9.6.png)
