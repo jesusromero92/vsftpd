@@ -10,6 +10,6 @@ Aquí se recoge las practicas que se me han ido ofreciendo
   
   * [Ejercicio 3](https://github.com/jesusromero92/vsftpd/blob/main/Indices/Practica/EscrituraAnonymous.md)
 
-### 5. -[Seguridad](https://github.com/jesusromero92/NGINX/blob/main/Indices/Practica/Seguridad.md)
+### 5. -[Seguridad](https://github.com/jesusromero92/vsftpd/blob/main/Indices/Practica/Seguridad.md)
 
 
