@@ -4,7 +4,7 @@
 
 * ``` apt install apache2-utils```
 
-![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.5.png)
+* ![](https://github.com/jesusromero92/NGINX/blob/main/Fotos/3.5.png)
 
 
 ### 2. Configuramos el archivo de configuración de la siguiente forma
