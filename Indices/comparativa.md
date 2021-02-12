@@ -15,6 +15,15 @@ Uno de los puntos fuertes de Nginx,es que este servidor es mucho más intuitivo 
 ## ¿Quién es más seguro?
 Ambos servidores empatan, ya que ambos se toman muy en serio la seguridad de sus aplicaciones, cuentan con medidas de seguridad para mitigar, por ejemplo, ataques DDoS, malware y Phishing, y publican periódicamente informes de seguridad y actualizaciones de mantenimiento.
 
+| Proftpd | Vsdtpd |
+|-|-|
+| Tiene un archivo de configuración principal, que contiene directivas y grupos de directivas que son muy intuitivas si has utilizado el servidor web Apache, ya que se basaron en él para crear Proftpd. | Dispone de configuraciones de IP virtual |
+| Dispone de un directorio llamado «.Ftpaccess» que es similar a «.htaccess» de Apache. | Puedes crear usuarios virtuales |
+| Es muy fácil configurar múltiples servidores FTP virtuales y servicios FTP anónimos. | Puede funcionar en modo operación independiente o inetd. |
+| Dispone de directorios raíz anónimos que no requieren ninguna estructura de directorio, archivos binarios del sistema u otros archivos del sistema. | Las opciones de configuración por parte del usuario son muy avanzadas. |
+| No hay comando SITE EXEC,evitando así, los problemas que puede acarrear en seguridad. | Las opciones de configuración por parte del usuario son muy avanzadas. |
+| Los directorios y archivos ocultos están basados en permisos de estilo Unix. | Dispone de un acelerador de ancho de banda para que funcionen las cargas y descargas aún mejor. |
+| Dispone de modo autónomo que se ejecuta como un usuario sin privilegios para disminuir las posibilidades de ataques. | Puedes establecer límites por IP. |
 ________
 ## Otras diferencias
 
