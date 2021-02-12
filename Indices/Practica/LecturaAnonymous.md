@@ -1,5 +1,5 @@
 # Acceso al servidor FTP: anónimo tiene solo permiso de lectura en su directorio de trabajo. 📄
-## Vamos a configurar el servidor FTP para que Anonymous tenga solo modo lectura en su directorio de trabajo,no podrá subir nada
+Vamos a configurar el servidor FTP para que Anonymous tenga solo modo lectura en su directorio de trabajo,no podrá subir nada
 
 
 ### Pasos
