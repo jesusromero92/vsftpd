@@ -1,5 +1,5 @@
 # Acceso al servidor FTP: anónimo tiene permiso de escritura en el directorio sugerencias, que es un subdirectorio de su directorio raíz. 📄
-## Procedemos a configurar el servidor para que el usuario Anonymous pueda escribir solo en /sugerencias
+ Procedemos a configurar el servidor para que el usuario Anonymous pueda escribir solo en /sugerencias
 
 ### Pasos
 
