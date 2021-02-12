@@ -22,7 +22,7 @@
 * Subir
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.4.png)
 
-* Bajar
+* Descargar
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/7.5.png)
 
