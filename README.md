@@ -16,5 +16,6 @@ El proyecto consiste en investigar sobre VSFTPD y crear un servidor FTP que cump
   * [Directivas](https://ikastaroak.birt.eus/edu/argitalpen/backupa/20200331/1920k/es/ASIR/SRI/SRI03/es_ASIR_SRI03_Contenidos/SRI03_CONT_R22_DIRECTIVAS_vsftpd.pdf)
   * [Usuarios Locales](https://qastack.mx/ubuntu/575523/how-to-setup-virtual-users-for-vsftpd-with-access-to-a-specific-sub-directory)
   * [Seguridad](https://ubunlog.com/vsftpd-instalar-un-servidor-ftp-ubuntu/)
+  * [Comparativa](https://www.redeszone.net/tutoriales/servidores/mejores-servidores-ftp-ftpes-linux/)
   
   * El resto de información proviene de mis conocimientos aprendidos con FTP
