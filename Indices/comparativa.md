@@ -1,4 +1,4 @@
-# Comparativa entre NGINX y Apache ⌨️
+# Comparativa entre VSFTPD y ProFTPD ⌨️
 
 Ambos son los dos servidores web más usado,pero ambos presentan una serie de diferencias y son las siguientes:
 
