@@ -1,4 +1,4 @@
-# Práctica de cómo modificar el index por defecto de NGINX
+# Práctica de cómo CREAR USUARIOS VIRTUALES VSFTPD
 
 ### 1. Instalamos los siguientes paquetes
 
