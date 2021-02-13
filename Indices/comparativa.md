@@ -1,6 +1,6 @@
 # Comparativa entre VSFTPD y ProFTPD ⌨️
 
-Ambos son los dos servidores web más usado,pero ambos presentan una serie de diferencias y son las siguientes:
+Son dos servidores FTP de los más usados,pero ambos presentan una serie de diferencias y son las siguientes:
 
 ## Proftpd
 ProFTPd es un popular servidor FTP para Linux. ProFTPd es un programa que fue escrito para ser un software poderoso y configurable, por lo que no es necesariamente el servidor de FTP más liviano disponible, pero si el más conocido y el más usado. en servidores.
