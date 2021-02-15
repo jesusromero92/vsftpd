@@ -24,9 +24,6 @@ Voy a crear en el servidor un usuario llamado jesus
     
    ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.5.png)
     
-   * Quitamos los permisos de escritura
-   
-   ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/5.5.6.png)
 
 ### 4. Comprobamos que podemos acceder
 
