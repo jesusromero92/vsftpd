@@ -47,3 +47,11 @@
 ### 9. Y ahora accedemos con el usuario creado
 
 ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/8.11.png)
+
+
+### 10. Retoques finales
+Con la configuración anterior,solo podrán acceder los usuarios virtuales.
+Con los retoques que se va a hacer ahora,podrán acceder todo el mundo,tanto anonymous,usuarios virtuales y usuarios del sistema
+
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/fin1.png)
+![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/fin2.png)
