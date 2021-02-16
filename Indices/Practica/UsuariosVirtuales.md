@@ -54,4 +54,5 @@ Con la configuración anterior,solo podrán acceder los usuarios virtuales.
 Con los retoques que se va a hacer ahora,podrán acceder todo el mundo,tanto anonymous,usuarios virtuales y usuarios del sistema
 
 * Añadimos en ```/etc/vsftpd.conf``` ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/fin1.png)
+
 + Añadimos en ```/etc/pam.d/vsftpd``` ![](https://github.com/jesusromero92/vsftpd/blob/main/Fotos/fin2.png)
